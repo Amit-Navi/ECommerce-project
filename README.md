@@ -4,9 +4,6 @@
 * This project is developed by a team of 5 members during our project week in Masai School, Bengaluru. 
 
 
-## E-R Diagram for the application
-
-![E-R Diagram](./ER%20Diagram/E-Commerce%20API%20ER%20Diagram.jpeg?raw=true)
 
 ## Tech Stack
 
